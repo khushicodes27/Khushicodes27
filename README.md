@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Khushi! 👋
 
-<!--
-**khushicodes27/Khushicodes27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 **1st Year CSE Engineering Student** | 2nd Semester
+- 💻 Currently mastering **Python** and **Data Structures**
+- 🤖 Deeply interested in **Agentic AI** and **Generative AI**
+- 🎯 Focused on securing a **Google STEP Internship 2027**
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Journey
+- **Languages:** C (Proficient), Python (Learning)
+- **Focus Areas:** Competitive Programming, AI Automation, Web Tech
+- **Tools:** Git, GitHub, Mobile Coding (Pydroid/Termux)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current Goals
+- [ ] Complete 50 LeetCode Easy/Medium problems
+- [ ] Build an AI agent to automate college tasks
+- [ ] Contribute to one Open Source project
+
+---
+*“Building the future, one commit at a time.”*
